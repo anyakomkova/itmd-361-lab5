@@ -1,0 +1,70 @@
+h1{
+    width: 50%;  
+    padding: 0px;
+    text-decoration: underline #330080;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 5em;
+    font-weight: bold; 
+    text-align: center;
+  }
+  
+  td, th {
+    padding: 10px;
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  img {
+    width: 10em;
+    padding: 0.3em;
+    border: 0em;
+    margin: 0em;
+  } 
+  
+  .image-background{
+    background-color: #321e46;
+  }
+  
+  #planets{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #planets{
+    background-color: #482d7f;
+    border: 0px;
+  }
+  
+  .planet-names{
+    color: #ffffff;
+    background-color: #FFFDD0  ;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  .headings{
+    background-color: #FFFDD0 ;
+    text-align: left;
+  }
+  
+  .hover-facts:hover td{
+    background-color: #bdb6ff ;
+  } 
+  
+  .pname{
+    color: #008080;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .teal {
+    background-color: #008080 ;
+  }
+  
+  .cream {
+    background-color: #FFFDD0 ;
+  }
