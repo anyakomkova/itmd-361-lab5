@@ -37,15 +37,15 @@ h1{
     border: 0px;
   }
   
-  .planet-names{
+  .PlanetNames{
     color: #ffffff;
-    background-color: #FFFDD0  ;
+    background-color: #464bca  ;
     font-size: 2em;
     font-weight: bold;
   }
   
   .headings{
-    background-color: #FFFDD0 ;
+    background-color: #464bca ;
     text-align: left;
   }
   
@@ -60,11 +60,11 @@ h1{
   }
   
   .teal {
-    background-color: #008080 ;
+    background-color: #464bca ;
   }
   
   .cream {
-    background-color: #FFFDD0 ;
+    background-color: #a688c4 ;
   }
   img:hover{
     width: 250px;
