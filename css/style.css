@@ -60,6 +60,7 @@ h1{
   
   .dataName{
     background: linear-gradient(to left, #7c5fb1, #535bc0);
+    font-size: 1em;
     font-weight: bold;
     text-align: center;
   }
