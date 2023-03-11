@@ -40,7 +40,7 @@ h1{
   }
   
   .planetImg{
-    background-color:  #211e3e;
+    background-color:  #9d96eb;
   }
   
   .planet-names{
@@ -56,14 +56,13 @@ h1{
   }
   
   .planetsImg{
-    background-color: #9d96eb;
+    background-color: #211e3e;
     text-align: center;
   }
   
   .hover:hover td{
     background-color: #9d96eb ;
   } 
-  
   
   .mint {
     background-color:  #9d96eb;
