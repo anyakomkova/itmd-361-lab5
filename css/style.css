@@ -27,8 +27,12 @@ h1{
     padding: 0.3em;
     border: 0em;
     margin: 0em;
-    background-color: #211e3e;
   } 
+
+  .imageBackground{
+    background-color: #1f1931;
+  }
+
   #planets{
     border-collapse: collapse;
     border: 1px solid black;
@@ -56,12 +60,7 @@ h1{
     background: linear-gradient(#7044c1, #3841c9);;
     text-align: center;
   }
-  
-  .planetsImg{
-    background-color: #211e3e;
-    text-align: center;
-  }
-  
+
   .hover:hover td{
     background-color: #9d96eb ;
   } 
