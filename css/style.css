@@ -67,7 +67,7 @@ h1{
   }
 
   .hover:hover td{
-    background-color: #dbc085 ;
+    background: linear-gradient(to left, #ddb551, #7c5fb1);
   } 
   
   .mint {
