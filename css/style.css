@@ -45,8 +45,10 @@ h1{
     border: 0px;
   }
   
-  .planetImg{
-    background-color:  #9d96eb;
+  .imagesOf{
+    background: linear-gradient(to left, #7c5fb1, #535bc0);
+    font-weight: bold;
+    text-align: center;
   }
   
   .planetNames{
@@ -58,6 +60,7 @@ h1{
   
   .dataName{
     background: linear-gradient(to left, #7c5fb1, #535bc0);
+    font-weight: bold;
     text-align: center;
   }
 
