@@ -16,13 +16,13 @@ h1{
     background-size: auto;
     }
   
-  td, th {
+  td, th{
     padding: 10px;
     border: 1px solid;
     text-align: center;
   }
   
-  img {
+  img{
     width: 10em;
     padding: 0.3em;
     border: 0em;
