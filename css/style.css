@@ -8,6 +8,14 @@ h1{
     font-weight: bold; 
     text-align: center;
   }
+
+  body{
+    background-image: url(../images/space.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #393bb2;
+    font-size: 30px;
+    }
   
   td, th {
     padding: 10px;
