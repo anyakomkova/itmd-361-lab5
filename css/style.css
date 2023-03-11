@@ -48,6 +48,7 @@ h1{
   .imagesOf{
     background: linear-gradient(to left, #7c5fb1, #535bc0);
     font-weight: bold;
+    font-size: 1em;
     text-align: center;
   }
   
