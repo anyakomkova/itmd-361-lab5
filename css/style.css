@@ -1,6 +1,7 @@
 h1{
     width: 50%;  
     padding: 0px;
+    color:#9d96eb;
     text-decoration: underline #4a2676;
     margin-left: auto;
     margin-right: auto;
@@ -26,6 +27,7 @@ h1{
     padding: 0.3em;
     border: 0em;
     margin: 0em;
+    background-color: #211e3e;
   } 
   #planets{
     border-collapse: collapse;
