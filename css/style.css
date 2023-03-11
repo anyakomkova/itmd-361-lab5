@@ -53,7 +53,7 @@ h1{
   
   .planetNames{
     color: #000000;
-    background: linear-gradient(to left, #7c5fb1, #535bc0);
+    background: linear-gradient(#7c5fb1, #535bc0);
     font-size: 2em;
     font-weight: bold;
   }
