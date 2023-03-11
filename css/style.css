@@ -20,7 +20,7 @@ h1{
   td, th{
     padding: 10px;
     border: 1px solid;
-    font-family: 'Press Start 2P';
+    font-family: 'Silkscreen';
     text-align: center;
   }
   
@@ -49,7 +49,7 @@ h1{
   
   .imagesOf{
     background: linear-gradient(to left, #9d96eb, #535bc0);
-    font-family: 'Press Start 2P';
+    font-family: 'Silkscreen';
     font-size: 1em;
     text-align: center;
   }
@@ -57,14 +57,14 @@ h1{
   .planetNames{
     color: #000000;
     background: linear-gradient(#9d96eb, #535bc0);
-    font-family: 'Press Start 2P';
+    font-family: 'Silkscreen';
     font-size: 2em;
   }
   
   .dataName{
     background: linear-gradient(to left, #9d96eb, #535bc0);
     font-size: 1em;
-    font-family: 'Press Start 2P';
+    font-family: 'Silkscreen';
     text-align: center;
   }
 
