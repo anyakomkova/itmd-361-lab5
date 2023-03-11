@@ -29,7 +29,7 @@ h1{
   }
   
   #planets{
-    background-color:  #e6ffe6;
+    background-color:  #9d96eb;
     border: 0px;
   }
   
@@ -37,29 +37,28 @@ h1{
     background-color:  #000000;
   }
   
-  
   .planet-names{
     color: #000000;
-    background-color:  #e6ffe6;
+    background-color:  #9d96eb;
     font-size: 2em;
     font-weight: bold;
   }
   
   .side-titles{
-    background-color:  #e6ffe6;
+    background-color:  #9d96eb;
     text-align: left;
   }
   
-  .side-titles-column{
-    background-color: #e6ffe6;
+  .planetsImg{
+    background-color: #9d96eb;
     text-align: left;
   }
   
   .hover:hover td{
-    background-color: #eeffcc ;
+    background-color: #9d96eb ;
   } 
   
   
   .mint {
-    background-color:  #e6ffe6;
+    background-color:  #9d96eb;
   }
