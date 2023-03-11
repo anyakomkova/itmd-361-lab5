@@ -1,11 +1,10 @@
 h1{
     width: 50%;  
     padding: 0px;
-    text-decoration: underline #b981e1;
+    text-decoration: underline #000000;
     margin-left: auto;
     margin-right: auto;
     font-size: 4em;
-    color: #FFFDD0;
     font-weight: bold; 
     text-align: center;
   }
@@ -15,14 +14,6 @@ h1{
     border: 1px solid;
     text-align: center;
   }
-
-  body{
-    background-image: url(/images/space.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #1f1a36;
-    font-size: 30px;
-    }
   
   img {
     width: 10em;
@@ -30,11 +21,6 @@ h1{
     border: 0em;
     margin: 0em;
   } 
-  
-  .planetImg{
-    background-color: #1d1d2e;
-  }
-  
   #planets{
     border-collapse: collapse;
     border: 1px solid black;
@@ -43,36 +29,37 @@ h1{
   }
   
   #planets{
-    background-color: #FFFDD0;
+    background-color:  #e6ffe6;
     border: 0px;
   }
   
-  .PlanetNames{
-    color: #008080;
-    background-color: #FFFDD0  ;
+  .image-background{
+    background-color:  #000000;
+  }
+  
+  
+  .planet-names{
+    color: #000000;
+    background-color:  #e6ffe6;
     font-size: 2em;
     font-weight: bold;
   }
   
-  .headings{
-    background-color: #FFFDD0 ;
+  .side-titles{
+    background-color:  #e6ffe6;
     text-align: left;
   }
   
-  .hover-facts:hover td{
-    background-color: #FFB6C1 ;
+  .side-titles-column{
+    background-color: #e6ffe6;
+    text-align: left;
+  }
+  
+  .hover:hover td{
+    background-color: #eeffcc ;
   } 
   
-  .pname{
-    color: #008080;
-    font-size: 1.2em;
-    font-weight: bold;
-  }
   
-  .teal {
-    background-color: #008080 ;
-  }
-  
-  .cream {
-    background-color: #FFFDD0 ;
+  .mint {
+    background-color:  #e6ffe6;
   }
