@@ -3,7 +3,7 @@ h1{
     padding: 0px;
     color:#3a43bb;
     text-decoration: underline #877eea;
-    font-family: 'Press Start 2P';
+    font-family: 'Bungee Shade';
     margin-left: auto;
     margin-right: auto;
     font-size: 4em;
@@ -20,6 +20,7 @@ h1{
   td, th{
     padding: 10px;
     border: 1px solid;
+    font-family: 'Press Start 2P';
     text-align: center;
   }
   
