@@ -12,8 +12,7 @@ h1{
   body{
     background-image: url(../images/space.png);
     background-repeat: repeat;
-    background-size: cover;
-    color: #181629;
+    background-size: auto;
     }
   
   td, th {
@@ -41,7 +40,7 @@ h1{
   }
   
   .planetImg{
-    background-color:  #000000;
+    background-color:  #211e3e;
   }
   
   .planet-names{
@@ -53,12 +52,12 @@ h1{
   
   .side-titles{
     background: linear-gradient(#7044c1, #3841c9);;
-    text-align: left;
+    text-align: center;
   }
   
   .planetsImg{
     background-color: #9d96eb;
-    text-align: left;
+    text-align: center;
   }
   
   .hover:hover td{
