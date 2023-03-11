@@ -49,15 +49,15 @@ h1{
     background-color:  #9d96eb;
   }
   
-  .planet-names{
+  .planetNames{
     color: #000000;
-    background-color:  #9d96eb;
+    background: linear-gradient(#7c5fb1, #535bc0);
     font-size: 2em;
     font-weight: bold;
   }
   
   .dataName{
-    background: linear-gradient(#7c5fb1, #535bc0);;
+    background: linear-gradient(#7c5fb1, #535bc0);
     text-align: center;
   }
 
