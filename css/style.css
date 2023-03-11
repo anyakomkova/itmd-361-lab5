@@ -2,7 +2,7 @@ h1{
     width: 50%;  
     padding: 0px;
     color:#9d96eb;
-    text-decoration: underline #4a2676;
+    text-decoration: underline #535bc0;
     margin-left: auto;
     margin-right: auto;
     font-size: 4em;
@@ -46,7 +46,7 @@ h1{
   }
   
   .imagesOf{
-    background: linear-gradient(to left, #7c5fb1, #535bc0);
+    background: linear-gradient(to left, #9d96eb, #535bc0);
     font-weight: bold;
     font-size: 1em;
     text-align: center;
@@ -54,13 +54,13 @@ h1{
   
   .planetNames{
     color: #000000;
-    background: linear-gradient(#7c5fb1, #535bc0);
+    background: linear-gradient(#9d96eb, #535bc0);
     font-size: 2em;
     font-weight: bold;
   }
   
   .dataName{
-    background: linear-gradient(to left, #7c5fb1, #535bc0);
+    background: linear-gradient(to left, #9d96eb, #535bc0);
     font-size: 1em;
     font-weight: bold;
     text-align: center;
